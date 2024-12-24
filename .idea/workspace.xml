@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d906032-37d4-441b-b964-442d551a9573" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankAAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankAAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankBAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankBAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankCAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/BankCAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/ECommercePlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/ECommercePlatform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/PaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adapter-Design-Pattern/src/main/java/com/example/adapterdesignpattern/PaymentProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Singleton-Design-Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton-Design-Pattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Singleton-Design-Pattern/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/Singleton-Design-Pattern/app.log" afterDir="false" />
     </list>
@@ -18,13 +26,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/senanurerdem/Desktop/Design-Patterns"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/senanurerdem/Desktop/Design-Patterns&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
